@@ -7,12 +7,5 @@ git config --global user.name "hhhhh"
 git add .
 git commit -m "new"
 
-expect -c"
-git push origin master
-expect\"Username for 'https://github.com':\"
-send\"okuilab-is\n\"
-expect\"Password for 'https://github.com': \"
-send\"4wKdkP6y\n\"
-interact
-"
+
 
