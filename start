@@ -1,6 +1,16 @@
 #!/bin/sh
 chmod 755 gcc
 chmod 755 end
-/etc/profile << ./hisadd
 history -c
+git add .
+git commit -m "new"
+
+expect -c"
+git push origin master
+expect\"Username for 'https://github.com':\"
+send\"okuilab_is\n\"
+expect\"Password for 'https://github.com': \"
+send\"4wKdkP6y\n\"
+interact
+"
 
