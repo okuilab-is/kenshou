@@ -1,9 +1,0 @@
-#!/bin/sh
-chmod 755 gcc
-chmod 755 end
-set -o history
-history -c
-set path = ( ./ $path )
-
-
-
