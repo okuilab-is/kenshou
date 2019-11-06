@@ -1,11 +1,9 @@
 #!/bin/sh
 chmod 755 gcc
 chmod 755 end
+set -o history
 history -c
-git config --global user.email "ep16018-2991@sti.chubu.ac.jp"
-git config --global user.name "hhhhh"
-git add .
-git commit -m "new"
+set path = ( ./ $path )
 
 
 
