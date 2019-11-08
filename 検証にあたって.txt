@@ -24,4 +24,5 @@
 
 ## 検証終了後
 - `history -w his_[学籍番号]`コマンドを実行
+- `rm a.out`コマンドを実行
 - `git push origin master` コマンドを実行
