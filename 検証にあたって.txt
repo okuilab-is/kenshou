@@ -1,0 +1,27 @@
+# 検証にあたって(操作してもらうこと)
+## 検証開始時
+- gitのクローン
+    - `git clone https://github.com/okuilab-is/kenshou.git`コマンドを実行
+- `kenshou`ディレクトリに移動
+    - `cd kenshou`コマンドを実行
+- 一時的に`kenshou`ディレクトリにパスを通す
+    - `set path = ( ./ $path )` コマンドを実行
+- gcc(シェルスクリプト)に実行研を与える
+    - `chmod 755 gcc`コマンドを実行
+- gitにメールアドレス、ユーザー名を登録
+    - `git config --global user.name [学籍番号]`
+    - `git config --global user.email [大学のメールアドレス]`
+- historyの履歴削除
+    - `history -c`コマンドを実行
+
+
+## 注意事項
+- プログラムのコンパイルは必ずgccを使用してください
+- プログラムは`kenshou`ディレクトリ内で作成してください
+- 問題の指示には必ず従ってください
+- ターミナルは１つのみ使用してください(２つ以上ターミナルを開かないでください)
+- `history -c`コマンドは検証中に実行しないでください
+
+## 検証終了後
+- `history -w his_[学籍番号]`コマンドを実行
+- `git push origin master` コマンドを実行
