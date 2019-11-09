@@ -13,7 +13,8 @@
     - `git config --global user.email [大学のメールアドレス]`
 - historyの履歴削除
     - `history -c`コマンドを実行
-
+- 問題を開く
+    - https://hackmd.io/JLm9nwUjT2K7WFcUqMFvUQ を開く
 
 ## 注意事項
 - プログラムのコンパイルは必ずgccを使用してください
