@@ -1,0 +1,6 @@
+##!/bin/bash
+export PATH="$PATH:./"
+chmod 755 gcc
+git config --global user.name hogehoge
+git config --global user.email ep16018@sti.chubu.ac.jp
+
