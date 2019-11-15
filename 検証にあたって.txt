@@ -1,3 +1,4 @@
+
 # 検証にあたって(操作してもらうこと)
 ## 検証開始時
 - gitのクローン
@@ -9,8 +10,8 @@
 
 ※以下はkenshouディレクトリ内の`検証にあたって.txt`にも書いてあります
 - 一時的に`kenshou`ディレクトリにパスを通す
-    - `set path = ( ./ $path )` コマンドを実行
-- gcc(シェルスクリプト)に実行研を与える
+    - ```set path = ( `pwd` $path )``` コマンドを実行
+- gcc(シェルスクリプト)に実行権を与える
     - `chmod 755 gcc`コマンドを実行
 - gitにメールアドレス、ユーザー名を登録
     - `git config --global user.name [学籍番号]`
@@ -20,12 +21,12 @@
 - 問題を開く
     - プレテスト
         - https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/rkoxuMh5r
-    - 段階的詳細化グループ
+    - グループ1（段）
         - 問題1：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/HJZ1Sg4oB
         - 問題2：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/SygnEg4sB
         - 問題3：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/H1yEEl4or
 
-    - 習作グループ
+    - グループ2（習）
         - 問題1：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/SypG2WNiH
         - ・問題2：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/rkRU2WNsS
         - 問題3：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/rJYKh-Nsr
