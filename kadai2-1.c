@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
   int i,n,stack[100],num=1,stacknum=0;
-  char a;
+  char c;
   scanf("%d",&n);
   for(i=0;i<n;i++){
     scanf("%c",&a);
