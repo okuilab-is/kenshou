@@ -1,8 +1,0 @@
-    92	16:09	vi testrp16.c
-    93	16:10	gcc testrp16.c
-    94	16:10	./a.out
-    95	16:11	vi testrp16.c
-    96	16:11	gcc testrp16.c
-    97	16:11	./a.out
-    98	16:11	touch his
-    99	16:11	history > his
