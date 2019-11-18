@@ -4,7 +4,7 @@ int main(){
   char c;
   scanf("%d",&n);
   for(i=0;i<n;i++){
-    scanf("%c",&a);
+    scanf("%c",&c);
     if(c=='('){
       printf("%d",num);
       stack[stacknum]=num;
