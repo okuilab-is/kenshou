@@ -1,11 +1,11 @@
 #include<stdio.h>
 int main(){
   int i,n,stack[100],num=1,stacknum=0;
-  char c;
+  char c[100];
   scanf("%d",&n);
+  scanf("%s",c);
   for(i=0;i<n;i++){
-    scanf("%c",&c);
-    if(c=='('){
+    if(c[i]=='('){
       printf("%d",num);
       stack[stacknum]=num;
       stacknum++;
