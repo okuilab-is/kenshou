@@ -1,0 +1,64 @@
+
+# 検証にあたって(操作してもらうこと)
+## 検証開始時
+- gitのクローン
+    - プレテストの時は`git clone https://github.com/okuilab-is/pre.git`を実行
+    - 本検証の時は`git clone https://github.com/okuilab-is/kenshou.git`を実行
+    - 効果の測定の時は`git clone https://github.com/okuilab-is/kenshou2.git`を実行
+    - もしID,PWを求められた場合
+        - ID(ユーザーネーム):okuilab-is
+        - PW:kenshou123
+- 検証に使用するディレクトリに移動
+    - プレテストの時は`cd pre`コマンドを実行
+    - 本検証の時は`cd kenshou`コマンドを実行
+    - 効果測定の時は`cd kenshou2`コマンドを実行
+
+※以下はkenshouディレクトリ内の`検証にあたって.txt`にも書いてあります
+- 一時的に`kenshou`ディレクトリにパスを通す
+    - ```set path = ( `pwd` $path )``` コマンドを実行
+- startss(シェルスクリプト)に実行権を与える
+    - `chmod 755 startss`コマンドを実行
+- startssを実行
+    - `startss`コマンドを実行
+    - (git へのユーザー名とメールアドレスの登録、gccへの実行権の付与を行う)
+- historyの履歴削除
+    - `history -c`コマンドを実行
+- 問題を開く
+    - プレテスト
+        - https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/rkoxuMh5r
+    - グループ1（段）
+        - 問題1：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/HJZ1Sg4oB
+        - 問題2：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/SygnEg4sB
+        - 問題3：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/H1yEEl4or
+
+    - グループ2（習）
+        - 問題1：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/SypG2WNiH
+        - 問題2：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/rkRU2WNsS
+        - 問題3：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/rJYKh-Nsr
+
+
+
+## 注意事項
+- 制限時間は１時間３０分です。全ての問題を解き終わった人から退室して構いませんが、退室する場合はコンピュータをログアウトさせずに、手を上げてください。
+- C言語で回答してください
+- プログラムのコンパイルは必ずgccを使用してください
+- 問題のプログラムは、現在すでに開いてある`kenshou`ディレクトリ内で作成してください
+- 問題の指示には必ず従ってください
+- 問題のページは一度、最初に必ず最後まで全て見てださい
+- ターミナルは現在開いている１つのみを使用し、新しいターミナルを開かないでください
+- 現在開いているターミナルを終了させないでください
+- `history -c`コマンドは検証中に実行しないでください
+- ディレクトリ内に`startss`、`endss`など、初めからファイルがいくつか入っていますが、それらには触れないでください
+- （本検証の時）問題はグループによって多少異なります。友人間等で、どのような問題であったかを共有しないでください
+- 問題の解釈に関する質問には受け付けません。文語通りに解釈してください
+
+## 検証終了後
+- `touch his-[学籍番号]`コマンドを実行して、ファイルを作成
+- `history > his-[学籍番号]`コマンドをしてコマンド履歴をファイルに出力
+- `git pull origin master`を実行
+- `gitss`コマンドを実行
+- `git push origin master` コマンドを実行
+    - もしID,PWを求められた場合
+        - ID(ユーザーネーム):okuilab-is
+        - PW:kenshou123
+- `endss`を実行(gitに登録したユーザー名、メールアドレスを削除)
