@@ -7,8 +7,9 @@ int main(){
 	for(i = 0; i <= n; i++){
 		scanf("%c", &c);
 		if(c == ')'){
-			a++;
 			printf("%d%d", a, a);
+		}else{
+			a++;
 		}
 	}
 	printf("\n");
