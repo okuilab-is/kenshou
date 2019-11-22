@@ -1,4 +1,4 @@
 #!/bin/sh
-/usr/bin/gcc $*
+/usr/bin/gcc $0
 git add .
 git commit -m "gccss"
