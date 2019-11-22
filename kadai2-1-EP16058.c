@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int a, n, b, i;
+int a = 0, n, b, i;
 char c;
 int main(){
 	scanf("%d", &n);
