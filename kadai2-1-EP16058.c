@@ -6,8 +6,8 @@ int main(){
 	scanf("%d", &n);
 	for(i = 0; i < n; i++){
 		scanf("%c", &c);
-		a++;
 		if(c == ')'){
+			a++;
 			printf("%d%d", a, a);
 		}
 	}
