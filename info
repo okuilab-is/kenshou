@@ -3,6 +3,7 @@
 set path = ( `pwd` $path )
 startss
 history -c
+clear
 問題を開く
     グループ1(d)
         問題1：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/HJZ1Sg4oB
