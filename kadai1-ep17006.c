@@ -2,11 +2,11 @@
 int main(void){
 	int n,num,h;
 	scanf("%d",&n);
-	int a[] = -1;
+	int a[] = 14;
 	for(i=0;i<n;i++){
 		scanf("%d",&num);
 		h=num%13;
-		while(a[h]!=-1){
+		while(a[h]!=14){
 			h=h+1;
 			while(h==13){
 				h=0;
