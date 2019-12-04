@@ -10,7 +10,7 @@ int main(void){
    for ( i = 0; i < 2; i++ ) {
       scanf("%d ", &num);
       h = num % 13;
-      while ( a[h] == -1 ) h = ( num + 1 ) % 13;
+      while ( a[h] == num ) h = ( num + 1 ) % 13;
       a[h] = num;
    }
 
