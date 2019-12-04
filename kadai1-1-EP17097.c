@@ -8,7 +8,7 @@ int main(void){
 		a[i]=-1;	
 	}
 	for(j=0;j<n;j++){
-		scanf("%d",&x);
+		scanf('%d',&x);
 		ans=x%13;
 		a[ans]=x;	
 	}
