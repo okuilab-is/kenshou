@@ -16,5 +16,5 @@ int main(void){
 	}
 	for(h=0;h<13;h++){
 	printf("%d",a[h]);
-	}
+	}return 0;
 }
