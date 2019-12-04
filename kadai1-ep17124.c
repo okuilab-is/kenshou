@@ -1,11 +1,11 @@
 #include<stdio.h>
 
 int main(void){
-   int n, a[13], num, h;
+   int n, a[13], num, h, i;
 
    scanf("%d ", &n);
 
-   for ( int i = 0; i < n; i++ ) a[i] = -1;
+   for ( i = 0; i < n; i++ ) a[i] = -1;
 
    for ( i = 0; i < n; i++ ) {
       scanf("%d ", &num);
@@ -14,7 +14,7 @@ int main(void){
       a[h] = num;
    }
 
-   printf("%s ", h);
+   printf("%c ", h);
 
    return 0;
 } 
