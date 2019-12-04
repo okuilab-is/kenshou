@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main(void){
-	int i,n,num,h,a[13];
+	int i,n,num,h,a[]=-1;
 	scanf("%d",&n);
-	a[13] = -1;
-	for(i=0;i<n;i++){
+//	a[13] = -1;
+	for(i=1;i<=n;i++){
 		scanf("%d",&num);
 		h=num%13;
 		while(a[h]!=-1){
