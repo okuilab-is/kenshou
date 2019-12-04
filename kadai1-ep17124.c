@@ -14,7 +14,8 @@ int main(void){
       a[h] = num;
    }
 
-   printf("%d\n", h);
+   if ( i = 0 ; i < 13 ; i++ ) printf("%d ", h[i]);
+   printf("\n");
 
    return 0;
 } 
