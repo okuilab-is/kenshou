@@ -12,6 +12,9 @@ int main(void){
 		ans=x%13;
 		a[ans]=x;	
 	}
-
+	for(k=0;k<13;k++){
+		printf("%d ",a[k])
+	}
+	printf("\n");
 
 }
