@@ -1,0 +1,64 @@
+     7	15:26	clear
+     8	15:30	vi kadai1-ep17006.c
+     9	15:58	vi kadai1-ep17006.c
+    10	15:58	v kadai1-ep17006.c
+    11	15:58	vi kadai1-ep17006.c
+    12	15:59	gcc kadai1-ep17006.c
+    13	15:59	vi kadai1-ep17006.c
+    14	16:00	gcc kadai1-ep17006.c
+    15	16:01	vi kadai1-ep17006.c
+    16	16:02	gcc kadai1-ep17006.c
+    17	16:02	vi kadai1-ep17006.c
+    18	16:04	gcc kadai1-ep17006.c
+    19	16:04	:q
+    20	16:04	vi kadai1-ep17006.c
+    21	16:04	:q
+    22	16:04	gcc kadai1-ep17006.c
+    23	16:05	vi kadai1-ep17006.c
+    24	16:05	gcc kadai1-ep17006.c
+    25	16:05	vi kadai1-ep17006.c
+    26	16:05	gcc kadai1-ep17006.c
+    27	16:06	vi kadai1-ep17006.c
+    28	16:06	gcc kadai1-ep17006.c
+    29	16:06	vi kadai1-ep17006.c
+    30	16:07	gcc kadai1-ep17006.c
+    31	16:07	vi kadai1-ep17006.c
+    32	16:08	gcc kadai1-ep17006.c
+    33	16:08	vi kadai1-ep17006.c
+    34	16:08	gcc kadai1-ep17006.c
+    35	16:08	vi kadai1-ep17006.c
+    36	16:10	vi kadai1-ep17006.c
+    37	16:10	gcc kadai1-ep17006.c
+    38	16:11	vi kadai1-ep17006.c
+    39	16:11	gcc kadai1-ep17006.c
+    40	16:11	vi kadai1-ep17006.c
+    41	16:12	gcc kadai1-ep17006.c
+    42	16:12	vi kadai1-ep17006.c
+    43	16:12	gcc kadai1-ep17006.c
+    44	16:13	a.out
+    45	16:14	a.out kadai1-ep17006.c
+    46	16:14	a.out kadai1-ep17006
+    47	16:14	./ kadai1-ep17006
+    48	16:14	./kadai1-ep17006
+    49	16:14	./ kadai1-ep17006.c
+    50	16:15	./
+    51	16:15	../
+    52	16:16	./a.out
+    53	16:16	vi kadai1-ep17006.c
+    54	16:18	./a.out
+    55	16:18	vi kadai1-ep17006.c
+    56	16:22	vi kadai2-ep17006.c
+    57	16:26	vi kadai1-ep17006.c
+    58	16:26	vi kadai2-ep17006.c
+    59	16:30	vi kadai1-ep17006.c
+    60	16:30	vi kadai2-ep17006.c
+    61	16:31	vi kadai1-ep17006.c
+    62	16:37	gcc kadai1-ep17006.c
+    63	16:37	vi kadai1-ep17006.c
+    64	16:37	gcc kadai1-ep17006.c
+    65	16:37	vi kadai1-ep17006.c
+    66	16:39	gcc kadai1-ep17006.c
+    67	16:39	vi kadai1-ep17006.c
+    68	16:40	gcc kadai1-ep17006.c
+    69	16:40	./a.out
+    70	16:42	history > his-$USER
