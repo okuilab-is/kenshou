@@ -3,7 +3,7 @@
 int main(void){
    int n, a[13], num, h, i;
 
-   scanf("%d", &n);
+   scanf("%d ", &n);
 
    for ( i = 0; i < 13; i++ ) a[i] = -1;
 
@@ -14,7 +14,7 @@ int main(void){
       a[h] = num;
    }
 
-   printf("%c ", h);
+   printf("%c ", a);
 
    return 0;
 } 
