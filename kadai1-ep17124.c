@@ -14,7 +14,7 @@ int main(void){
       a[h] = num;
    }
 
-   printf("%c ", a);
+   printf("%s ", a);
 
    return 0;
 } 
