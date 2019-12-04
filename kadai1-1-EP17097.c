@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-	int n,x,i,j,ans;
+	int n,x,i,j,k,ans;
 	int a[13];
 	
 	for(i=0;i<13;i++){
