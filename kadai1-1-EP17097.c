@@ -13,7 +13,7 @@ int main(void){
 		a[ans]=x;	
 	}
 	for(k=0;k<13;k++){
-		printf("%d ",a[k])
+		printf("%d ",a[k]);
 	}
 	printf("\n");
 
