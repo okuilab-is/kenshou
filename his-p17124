@@ -1,0 +1,58 @@
+    61	15:23	clear
+    62	15:23	cat info
+    63	15:24	clear
+    64	15:33	vi kadai1-ep17124.c
+    65	15:59	gcc kadai1-ep17124.c
+    66	15:59	vi kadai1-ep17124.c
+    67	16:00	vi kadai1-ep17124.c
+    68	16:00	gcc kadai1-ep17124.c
+    69	16:00	a.out
+    70	16:01	vi kadai1-ep17124.c
+    71	16:02	gcc kadai1-ep17124.c
+    72	16:02	a.out
+    73	16:02	vi kadai1-ep17124.c
+    74	16:03	gcc kadai1-ep17124.c
+    75	16:03	a.out
+    76	16:03	vi kadai1-ep17124.c
+    77	16:04	gcc kadai1-ep17124.c
+    78	16:05	a.out
+    79	16:05	vi kadai1-ep17124.c
+    80	16:06	gcc kadai1-ep17124.c
+    81	16:06	a.out
+    82	16:06	vi kadai1-ep17124.c
+    83	16:07	gcc kadai1-ep17124.c
+    84	16:07	a.out
+    85	16:07	vi kadai1-ep17124.c
+    86	16:08	gcc kadai1-ep17124.c
+    87	16:08	a.out
+    88	16:08	vi kadai1-ep17124.c
+    89	16:12	gcc kadai1-ep17124.c
+    90	16:12	vi kadai1-ep17124.c
+    91	16:12	gcc kadai1-ep17124.c
+    92	16:12	vi kadai1-ep17124.c
+    93	16:13	gcc kadai1-ep17124.c
+    94	16:13	a.out
+    95	16:13	vi kadai1-ep17124.c
+    96	16:22	gcc kadai1-ep17124.c
+    97	16:22	a.out
+    98	16:22	vi kadai1-ep17124.c
+    99	16:29	gcc kadai1-ep17124.c
+   100	16:29	a.out
+   101	16:29	vi kadai1-ep17124.c
+   102	16:31	gcc kadai1-ep17124.c
+   103	16:31	vi kadai1-ep17124.c
+   104	16:31	gcc kadai1-ep17124.c
+   105	16:31	vi kadai1-ep17124.c
+   106	16:32	gcc kadai1-ep17124.c
+   107	16:32	a.out
+   108	16:32	vi kadai1-ep17124.c
+   109	16:34	gcc kadai1-ep17124.c
+   110	16:34	a.out
+   111	16:34	a.out
+   112	16:35	vi kadai1-ep17124.c
+   113	16:36	a.out
+   114	16:37	vi kadai1-ep17124.c
+   115	16:37	gcc kadai1-ep17124.c
+   116	16:37	a.out
+   117	16:38	vi kadai1-ep17124.c
+   118	16:41	history > his-$USER
