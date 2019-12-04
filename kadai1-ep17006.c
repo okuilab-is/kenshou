@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(void){
-	int i,n,num,h;
+	int i,n,num,h,a[];
 	scanf("%d",&n);
-	int a[] = -1;
+	a[] = -1;
 	for(i=0;i<n;i++){
 		scanf("%d",&num);
 		h=num%13;
