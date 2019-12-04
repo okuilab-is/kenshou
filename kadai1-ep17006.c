@@ -13,5 +13,7 @@ int main(void){
 		}
 		[h]=num;
 	}
+	for(h=0;h<13;h++){
 	printf("%d",[h]);
+	}
 }
