@@ -14,9 +14,6 @@ int main(void){
 			ans=(x+1)%13;
 			l++;
 		}
-
-
-
 	        a[ans]=x;
         }
         for(k=0;k<13;k++){

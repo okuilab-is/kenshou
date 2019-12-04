@@ -1,0 +1,41 @@
+   106	15:25	clear
+   107	15:26	cat info
+   108	15:27	clear
+   109	15:31	vi kadai1-1-EP17097.c
+   110	15:49	gcc kadai1-1-EP17097.c
+   111	15:49	vi kadai1-1-EP17097.c
+   112	15:50	gcc kadai1-1-EP17097.c
+   113	15:50	a.out
+   114	15:50	vi kadai1-1-EP17097.c
+   115	15:53	gcc kadai1-1-EP17097.c
+   116	15:53	vi kadai1-1-EP17097.c
+   117	15:54	gcc kadai1-1-EP17097.c
+   118	15:54	vi kadai1-1-EP17097.c
+   119	15:54	gcc kadai1-1-EP17097.c
+   120	15:54	a.out
+   121	15:54	vi kadai1-1-EP17097.c
+   122	15:55	gcc kadai1-1-EP17097.c
+   123	15:55	vi kadai1-1-EP17097.c
+   124	15:56	gcc kadai1-1-EP17097.c
+   125	15:56	a.out
+   126	15:58	vi kadai1-1-EP17097.c
+   127	15:59	vi kadai1-2-EP17097.c
+   128	16:24	gcc kadai1-2-EP17097.c
+   129	16:24	vi kadai1-2-EP17097.c
+   130	16:24	gcc kadai1-2-EP17097.c
+   131	16:24	a.out
+   132	16:25	a.out
+   133	16:25	vi kadai1-2-EP17097.c
+   134	16:27	gcc kadai1-2-EP17097.c
+   135	16:27	a.out
+   136	16:27	vi kadai1-2-EP17097.c
+   137	16:29	gcc kadai1-2-EP17097.c
+   138	16:29	a.out
+   139	16:31	vi kadai1-2-EP17097.c
+   140	16:31	a.out
+   141	16:32	vi kadai1-2-EP17097.c
+   142	16:33	gcc kadai1-2-EP17097.c
+   143	16:33	a.out
+   144	16:34	vi kadai1-2-EP17097.c
+   145	16:36	vi kadai2-1-EP17097.c
+   146	16:41	history > his-$USER
