@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(void){
-	int n,,num,h,a[];
+	int n,num,h,a[];
 	scanf("%d",&n);
 	a[]=-1;
 	for(i=0;i<n;i++){
