@@ -14,7 +14,7 @@ for(i=0; i<n; i++){
 	}else{
 		printf("%d",x);
 	}
-	&c++;
+	c++;
 }
 return 0;
 }
