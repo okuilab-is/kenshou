@@ -7,8 +7,10 @@ char *x;
 
 scanf("%d %c",&n,&c);
 
+*x=&c;
+
 for(i=0; i<n; i++){
-	if(&(*c+i)=='('){ 
+	if(c=='('){ 
 		printf("o");
 	}else{
 		printf("x");
