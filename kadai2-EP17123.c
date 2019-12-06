@@ -8,13 +8,11 @@ scanf("%d %s",&n,&c);
 
 for(i=0; i<n; i++){
 	if(c[i]=='('){//failed
-		x[j] = num;
+		x[j++] = num;
 		printf("%d",num);
 		num++;
-		j++;
 	}else{
-		printf("%d",x[j]);
-		j--;
+		printf("%d",x[j--]);
 	}
 }
 return 0;
