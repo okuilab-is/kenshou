@@ -4,7 +4,7 @@ int main(void){
 int n,i,num=1,x;
 char c[];
 
-scanf("%d %c",&n,&c);
+scanf("%d %s",&n,&c);
 
 for(i=0; i<n; i++){
 	if(c[i]=='('){//failed
