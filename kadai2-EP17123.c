@@ -6,10 +6,13 @@ char c;
 
 scanf("%d %c",&n,&c);
 for(i=0; i<n; i++){
-	//if()
+	if()
 }
+
+
+
 printf("[n=%d]",n);
-printf("%c\n",c);
+printf("%d\n",c);
 
 return 0;
 }
