@@ -6,12 +6,11 @@ char c;
 
 scanf("%d %c",&n,&c);
 for(i=0; i<n; i++){
-	if(c="("){ 
+	if(c=="("){ 
 		printf("o");
 	}else{
 		printf("x");
 	}
-	&c+=1;
 }
 return 0;
 }
