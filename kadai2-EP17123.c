@@ -2,12 +2,12 @@
 
 int main(void){
 int n,i,num=1,x;
-char c;
+char c[];
 
 scanf("%d %c",&n,&c);
 
 for(i=0; i<n; i++){
-	if(c=='('){//failed
+	if(c[i]=='('){//failed
 		x=num; 
 		printf("%d",num);
 		num++;
@@ -15,7 +15,6 @@ for(i=0; i<n; i++){
 		printf("%d",x);
 		x--;
 	}
-	c++;
 }
 return 0;
 }
