@@ -6,13 +6,11 @@ char c;
 
 scanf("%d %c",&n,&c);
 for(i=0; i<n; i++){
-	//if()
+	if(*c+i="("){ 
+		printf("o");
+	}else{
+		printf("x");
+	}
 }
-
-
-
-printf("[n=%d]",n);
-printf("%d\n",c);
-
 return 0;
 }
