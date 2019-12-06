@@ -3,8 +3,8 @@
 int main(void){
 int n,h,num,i;
 scanf("%d",&n);
-int xs[n];
-for(i=0; i<n; i++) xs[i]=-1;
+int xs[13];
+for(i=0; i<13; i++) xs[i]=-1;
 for(i=0; i<n; i++){
 	scanf("%d",&num); //入力
 	h=num%13;
