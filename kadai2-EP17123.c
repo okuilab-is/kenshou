@@ -6,7 +6,7 @@ char c;
 
 scanf("%d %c",&n,&c);
 for(i=0; i<n; i++){
-	if()
+	//if()
 }
 
 
