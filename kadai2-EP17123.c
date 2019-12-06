@@ -11,6 +11,7 @@ for(i=0; i<n; i++){
 	}else{
 		printf("x");
 	}
+	&c=&c+1;
 }
 return 0;
 }
