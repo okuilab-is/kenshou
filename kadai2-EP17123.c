@@ -9,10 +9,10 @@ scanf("%d %s",&n,&c);
 for(i=0; i<n; i++){
 	if(c[i]=='('){//failed
 		x[j++] = num;
-		printf("%d",num);
+		printf("%do",num);
 		num++;
 	}else{
-		printf("%d",x[j--]);
+		printf("%dx",x[j--]);
 	}
 }
 return 0;
