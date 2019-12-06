@@ -8,7 +8,7 @@ for(i=0; i<n; i++) xs[i]=-1;
 for(i=0; i<n; i++){
 	scanf("%d",&num); //入力
 	h=num%13;
-	while(xs[h]!=0){
+	while(xs[h]!=-1){
 		h++;
 		h=h%13;
 	}
