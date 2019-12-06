@@ -8,15 +8,11 @@ char *x;
 scanf("%d %c",&n,&c);
 
 for(i=0; i<n; i++){
-	if(c=='('){ 
+	if(&(*c+i)=='('){ 
 		printf("o");
 	}else{
 		printf("x");
 	}
-
-	*x=&c;
-	*x+1;
-	&c=*x;
 }
 return 0;
 }
