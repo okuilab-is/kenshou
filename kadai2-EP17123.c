@@ -2,7 +2,7 @@
 
 int main(void){
 int n,i,num=1,x;
-char c[];
+char c[100];
 
 scanf("%d %s",&n,&c);
 
