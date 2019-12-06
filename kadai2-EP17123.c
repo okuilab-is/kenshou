@@ -1,20 +1,20 @@
 #include <stdio.h>
 
 int main(void){
-int n,i,num=0;
+int n,i,num=1,x;
 char c;
-char *x;
 
 scanf("%d %c",&n,&c);
 
-*x=&c;
-
 for(i=0; i<n; i++){
-	if(c=='('){ 
-		printf("o");
+	if(c=='('){//failed 
+		x = num;
+		num++;	
+		printf("%d",num);
 	}else{
-		printf("x");
+		printf("%d",x);
 	}
+	&c++;
 }
 return 0;
 }
