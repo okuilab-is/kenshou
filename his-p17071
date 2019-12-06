@@ -1,0 +1,99 @@
+   171	17:45	a.out
+   172	17:46	emacs kadai1-ep17071.c
+   173	17:46	gcc kadai1-ep17071.c
+   174	17:46	a.out
+   175	17:46	emacs kadai1-ep17071.c
+   176	17:47	gcc kadai1-ep17071.c
+   177	17:47	emacs kadai1-ep17071.c
+   178	17:47	gcc kadai1-ep17071.c
+   179	17:47	a.out
+   180	17:47	emacs kadai1-ep17071.c
+   181	17:48	gcc kadai1-ep17071.c
+   182	17:48	a.out
+   183	17:48	gcc kadai1-ep17071.c
+   184	17:48	emacs kadai1-ep17071.c
+   185	17:48	gcc kadai1-ep17071.c
+   186	17:48	a.out
+   187	17:48	emacs kadai1-ep17071.c
+   188	17:49	gcc kadai1-ep17071.c
+   189	17:49	a.out
+   190	17:49	emacs kadai1-ep17071.c
+   191	17:49	emacs kadai2-ep17071.c
+   192	17:55	gcc kadai2-ep17071.c
+   193	17:56	emacs kadai2-ep17071.c
+   194	17:56	gcc kadai2-ep17071.c
+   195	17:56	emacs kadai2-ep17071.c
+   196	17:56	gcc kadai2-ep17071.c
+   197	17:56	emacs kadai2-ep17071.c
+   198	17:56	gcc kadai2-ep17071.c
+   199	17:56	emacs kadai2-ep17071.c
+   200	17:57	gcc kadai2-ep17071.c
+   201	17:57	emacs kadai2-ep17071.c
+   202	17:57	emacs kadai2-ep17071.c
+   203	17:58	gcc kadai2-ep17071.c
+   204	17:58	emacs kadai2-ep17071.c
+   205	17:58	gcc kadai2-ep17071.c
+   206	17:58	a.out
+   207	17:59	emacs kadai2-ep17071.c
+   208	17:59	a.out
+   209	17:59	emacs kadai2-ep17071.c
+   210	18:00	gcc kadai2-ep17071.c
+   211	18:00	a.out
+   212	18:00	emacs kadai2-ep17071.c
+   213	18:01	gcc kadai2-ep17071.c
+   214	18:01	a.out
+   215	18:01	gcc kadai2-ep17071.c
+   216	18:01	emacs kadai2-ep17071.c
+   217	18:01	gcc kadai2-ep17071.c
+   218	18:01	a.out
+   219	18:01	a.out
+   220	18:02	gcc kadai2-ep17071.c
+   221	18:02	8
+   222	18:02	a.out
+   223	18:02	emacs kadai2-ep17071.c
+   224	18:04	gcc kadai2-ep17071.c
+   225	18:04	a.out
+   226	18:04	gcc kadai2-ep17071.c
+   227	18:04	emacs kadai2-ep17071.c
+   228	18:05	emacs
+   229	18:05	vi
+   230	18:05	emacs kadai2-ep17071.c
+   231	18:06	gcc kadai2-ep17071.c
+   232	18:06	emacs kadai2-ep17071.c
+   233	18:07	gcc kadai2-ep17071.c
+   234	18:07	emacs kadai2-ep17071.c
+   235	18:09	gcc kadai2-ep17071.c
+   236	18:09	emacs kadai2-ep17071.c
+   237	18:10	gcc kadai2-ep17071.c
+   238	18:11	emacs kadai2-ep17071.c
+   239	18:11	gcc kadai2-ep17071.c
+   240	18:11	emacs kadai2-ep17071.c
+   241	18:12	emacs kadai2-ep17071.c
+   242	18:12	emacs kadai2-ep17071.c
+   243	18:13	gcc kadai2-ep17071.c
+   244	18:13	emacs kadai2-ep17071.c
+   245	18:13	gcc kadai2-ep17071.c
+   246	18:13	a.out
+   247	18:13	gcc kadai2-ep17071.c
+   248	18:13	a.out
+   249	18:14	gcc kadai2-ep17071.c
+   250	18:14	emacs kadai2-ep17071.c
+   251	18:14	gcc kadai2-ep17071.c
+   252	18:15	emacs kadai2-ep17071.c
+   253	18:17	gcc kadai2-ep17071.c
+   254	18:18	emacs kadai2-ep17071.c
+   255	18:18	gcc kadai2-ep17071.c
+   256	18:18	a.out
+   257	18:19	emacs kadai2-ep17071.c
+   258	18:19	emacs kadai1-ep17071.c
+   259	18:19	emacs kadai2-ep17071.c
+   260	18:20	gcc kadai2-ep17071.c
+   261	18:20	a.out
+   262	18:20	a.out
+   263	18:20	gcc kadai2-ep17071.c
+   264	18:20	emacs kadai2-ep17071.c
+   265	18:20	gcc kadai2-ep17071.c
+   266	18:20	a.out
+   267	18:21	^C
+   268	18:21	emacs kadai2-ep17071.c
+   269	18:27	history > his-$USER
