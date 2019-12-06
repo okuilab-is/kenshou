@@ -14,7 +14,7 @@ for(i=0; i<n; i++){
 	}
 	xs[h]=num;
 }
-for(i=0; i<n; i++) printf("%d ",xs[i]);
+for(i=0; i<13; i++) printf("%d ",xs[i]);
 printf("\n");
 return 0;
 }
