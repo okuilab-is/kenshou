@@ -6,7 +6,7 @@ char c;
 
 scanf("%d %c",&n,&c);
 
-printf("%d %d",&n,&n+1);
+printf("%d %d",&c,&c+1);
 
 /*
 for(i=0; i<n; i++){
