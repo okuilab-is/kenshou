@@ -1,0 +1,99 @@
+    81	17:30	gcc kadai1-EP17123.c
+    82	17:30	vi kadai1-EP17123.c
+    83	17:31	gcc kadai1-EP17123.c
+    84	17:31	a.out
+    85	17:31	vi kadai1-EP17123.c
+    86	17:32	vi kadai1-EP17123.c
+    87	17:32	gcc kadai1-EP17123.c
+    88	17:32	a.out
+    89	17:32	vi kadai2-EP17123.c
+    90	17:41	vi test-EP17123.c
+    91	17:41	vi kadai2-EP17123.c
+    92	17:43	gcc kadai2-EP17123.c
+    93	17:43	a.out
+    94	17:43	gcc kadai2-EP17123.c
+    95	17:43	vi kadai2-EP17123.c
+    96	17:44	gcc kadai2-EP17123.c
+    97	17:44	a.out
+    98	17:44	gcc kadai2-EP17123.c
+    99	17:44	a.out
+   100	17:44	gcc kadai2-EP17123.c
+   101	17:44	vi kadai2-EP17123.c
+   102	17:45	gcc kadai2-EP17123.c
+   103	17:45	vi kadai2-EP17123.c
+   104	17:45	gcc kadai2-EP17123.c
+   105	17:45	vi kadai2-EP17123.c
+   106	17:45	gcc kadai2-EP17123.c
+   107	17:45	a.out
+   108	17:45	gcc kadai2-EP17123.c
+   109	17:45	vi kadai2-EP17123.c
+   110	17:48	gcc kadai2-EP17123.c
+   111	17:48	gcc kadai2-EP17123.c
+   112	17:48	vi kadai2-EP17123.c
+   113	17:48	gcc kadai2-EP17123.c
+   114	17:49	vi kadai2-EP17123.c
+   115	17:50	gcc kadai2-EP17123.c
+   116	17:50	:wq
+   117	17:50	vi kadai2-EP17123.c
+   118	17:51	gcc kadai2-EP17123.c
+   119	17:51	vi kadai2-EP17123.c
+   120	17:51	vi kadai2-EP17123.c
+   121	17:51	gcc kadai2-EP17123.c
+   122	17:52	a.out
+   123	17:52	vi kadai2-EP17123.c
+   124	17:53	vi kadai2-EP17123.c
+   125	17:53	gcc kadai2-EP17123.c
+   126	17:53	a.out
+   127	17:53	vi kadai2-EP17123.c
+   128	17:54	gcc kadai2-EP17123.c
+   129	17:54	vi kadai2-EP17123.c
+   130	17:54	gcc kadai2-EP17123.c
+   131	17:55	vi kadai2-EP17123.c
+   132	17:56	gcc kadai2-EP17123.c
+   133	17:56	a.out
+   134	17:56	gcc kadai2-EP17123.c
+   135	17:56	vi kadai2-EP17123.c
+   136	17:56	vi kadai2-EP17123.c
+   137	17:56	gcc kadai2-EP17123.c
+   138	17:57	a.out
+   139	17:57	gcc kadai2-EP17123.c
+   140	17:57	vi kadai2-EP17123.c
+   141	17:59	gcc kadai2-EP17123.c
+   142	17:59	vi kadai2-EP17123.c
+   143	18:00	gcc kadai2-EP17123.c
+   144	18:00	vi kadai2-EP17123.c
+   145	18:02	gcc kadai2-EP17123.c
+   146	18:03	vi kadai2-EP17123.c
+   147	18:07	gcc kadai2-EP17123.c
+   148	18:07	vi kadai2-EP17123.c
+   149	18:08	vi kadai2-EP17123.c
+   150	18:08	gcc kadai2-EP17123.c
+   151	18:08	a.out
+   152	18:08	gcc kadai2-EP17123.c
+   153	18:08	vi kadai2-EP17123.c
+   154	18:09	gcc kadai2-EP17123.c
+   155	18:09	a.out
+   156	18:10	gcc kadai2-EP17123.c
+   157	18:10	vi kadai2-EP17123.c
+   158	18:11	gcc kadai2-EP17123.c
+   159	18:11	vi kadai2-EP17123.c
+   160	18:12	vi kadai2-EP17123.c
+   161	18:12	gcc kadai2-EP17123.c
+   162	18:12	gcc kadai2-EP17123.c
+   163	18:13	vi kadai2-EP17123.c
+   164	18:13	vi kadai2-EP17123.c
+   165	18:13	gcc kadai2-EP17123.c
+   166	18:13	a.out
+   167	18:13	vi kadai2-EP17123.c
+   168	18:19	vi kadai2-EP17123.c
+   169	18:19	gcc kadai2-EP17123.c
+   170	18:19	a.out
+   171	18:19	vi kadai2-EP17123.c
+   172	18:20	gcc kadai2-EP17123.c
+   173	18:20	10
+   174	18:20	a.out
+   175	18:21	gcc kadai2-EP17123.c
+   176	18:21	vi kadai2-EP17123.c
+   177	18:21	gcc kadai2-EP17123.c
+   178	18:21	a.out
+   179	18:24	history > his-$USER
