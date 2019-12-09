@@ -4,10 +4,12 @@ void main(){
   scanf("%d",&n);
   for (int j=0;j<20;j++) a[j]=-1;
   int k;
-  for(int j=0;j<20;j++){
+  for(int j=0;j<n;j++){
     scanf("%d",&i);
     k=i%13;
-    while(a[k]!=-1) k++;
+    while(a[k]!=-1) {
+      k=(k+1)%n;
+    }
     a[k]=i;
     printf("%d,%d\n",k,a[k]);
   } 
