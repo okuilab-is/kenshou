@@ -7,7 +7,7 @@ void main(){
   for(int j=0;j<20;j++){
     scanf("%d",&i);
     k=i%13;
-    while(a[k]<>(-1)) k++;
+    while(a[k]!=-1) k++;
     a[k]=i;
   } 
   for(int j=0;j<20;j++) printf("%d\n",a[j]);
