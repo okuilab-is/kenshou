@@ -5,7 +5,7 @@ void main(){
   int a[100];
   char c;
   for(int j=0;j<n;j++){
-    scanf("%c",&c);
+    scanf("%s",&c);
     if(c=='('){
       a[j-(i-1)]=i;
       printf("%d",a[j]);
