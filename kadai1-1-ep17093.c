@@ -2,8 +2,8 @@
 void main(){
   int n,i;
   scanf("%d",&n);
-  int a[20];
-  for (int j=0;j<20;j++){
+  int a[13];
+  for (int j=0;j<13;j++){
     a[j]=-1;
   }
   int k;
@@ -12,5 +12,5 @@ void main(){
     k=i%13;
     a[k]=i;
   }
-  for(int j=0;j<20;j++) printf("%d\n",a[j]);
+  for(int j=0;j<13;j++) printf("%d\n",a[j]);
 }
