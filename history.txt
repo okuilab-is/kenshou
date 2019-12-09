@@ -1,0 +1,26 @@
+    64	13:38	clear
+    65	13:39	ls
+    66	13:40	nano kadai1-1-ep17133.c
+    67	13:52	cc kadai1-1-ep17133.c -o kadai1
+    68	13:52	nano kadai1-1-ep17133.c
+    69	13:53	nano kadai1-1-ep17133.c
+    70	13:54	nano kadai1-1-ep17133.c
+    71	13:55	cc kadai1-1-ep17133.c -o kadai1
+    72	13:56	nano kadai1-1-ep17133.c
+    73	13:57	cc kadai1-2-ep17133.c -o kadai1
+    74	13:57	kadai1
+    75	13:58	cc kadai1-2-ep17133.c -o kadai1
+    76	13:58	nano kadai1-1-ep17133.c
+    77	13:59	nano kadai1-2-ep17133.c
+    78	14:00	nano kadai2-1-ep17133.c
+    79	14:05	cc kadai1-2-ep17133.c -o kadai2
+    80	14:06	cc kadai1-2-ep17133.c -o kadai1
+    81	14:06	nano kadai1-2-ep17133.c
+    82	14:07	cc kadai1-2-ep17133.c kadai2
+    83	14:07	cc kadai1-2-ep17133.c -o kadai2
+    84	14:07	nano kadai1-2-ep17133.c
+    85	14:07	cc kadai1-2-ep17133.c -o kadai2
+    86	14:07	nano kadai1-2-ep17133.c
+    87	14:07	cc kadai1-2-ep17133.c -o kadai2
+    88	14:07	kadai2
+    89	14:08	history > history.txt
