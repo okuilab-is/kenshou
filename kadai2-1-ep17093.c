@@ -8,10 +8,10 @@ void main(){
     scanf("%c",&c);
     if(c=='('){
       a[j-(i-1)]=i;
-      i++;
       printf("%d",a[j]);
     }else{
       printf("%d",i);
+      i++;
     }
   }
   printf("\n");
