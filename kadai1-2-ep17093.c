@@ -8,7 +8,7 @@ void main(){
     scanf("%d",&i);
     k=i%13;
     while(a[k]!=-1) {
-      k=(k+1)%n;
+      k=(k+1)%13;
     }
     a[k]=i;
     printf("%d,%d\n",k,a[k]);
