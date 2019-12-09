@@ -3,7 +3,7 @@ void main(){
   int n,i;
   scanf("%d",&n);
   int a[20];
-  for (int j=0;j<n;j++){
+  for (int j=0;j<20;j++){
     a[j]=-1;
   }
   int k;
