@@ -1,0 +1,70 @@
+    77	10:53	clear
+    78	10:55	vi kadai1-1-ep17093.c
+    79	11:05	gcc kadai1-1-ep17093.c
+    80	11:05	a.out
+    81	11:05	vi kadai1-1-ep17093.c
+    82	11:06	gcc kadai1-1-ep17093.c
+    83	11:06	a.out
+    84	11:06	a.out
+    85	11:07	vi kadai1-1-ep17093.c
+    86	11:08	gcc kadai1-1-ep17093.c
+    87	11:08	a.out
+    88	11:09	vi kadai1-1-ep17093.c
+    89	11:10	vi kadai1-1-ep17093.c
+    90	11:11	vi kadai1-1-ep17093.c
+    91	11:11	vi kadai1-2-ep17093.c
+    92	11:20	vi kadai1-2-ep17093.cv
+    93	11:21	gcc kadai1-2-ep17093.c
+    94	11:21	vi kadai1-2-ep17093.c
+    95	11:22	gcc kadai1-2-ep17093.c
+    96	11:22	vi kadai1-2-ep17093.c
+    97	11:22	gcc kadai1-2-ep17093.c
+    98	11:22	a.out
+    99	11:23	88
+   100	11:23	vi kadai1-2-ep17093.c
+   101	11:25	gcc kadai1-2-ep17093.c
+   102	11:25	a.out
+   103	11:25	vi kadai1-2-ep17093.c
+   104	11:26	gcc kadai1-2-ep17093.c
+   105	11:26	a.out
+   106	11:28	vi kadai1-2-ep17093.c
+   107	11:30	gcc kadai1-2-ep17093.c
+   108	11:30	a.out
+   109	11:31	vi kadai1-2-ep17093.c
+   110	11:31	gcc kadai1-2-ep17093.c
+   111	11:31	a.out
+   112	11:32	a.out
+   113	11:32	a.out
+   114	11:32	vi kadai1-2-ep17093.c
+   115	11:33	gcc kadai1-2-ep17093.c
+   116	11:33	a.out
+   117	11:34	vi kadai1-1-ep17093.c
+   118	11:35	gcc kadai1-2-ep17093.c
+   119	11:35	gcc kadai1-1-ep17093.c
+   120	11:35	a.out
+   121	11:35	gcc kadai1-2-ep17093.c
+   122	11:35	a.out
+   123	11:40	vi kadai2-1-ep17093.c
+   124	11:54	gcc kaidi2-1-ep17093.c
+   125	11:54	vi kadai2-1-ep17093.c
+   126	11:55	vi kadai2-1-ep17093.c
+   127	11:55	gcc kadai2-1-ep17093.c
+   128	11:55	vi kadai2-1-ep17093.c
+   129	11:55	gcc kadai2-1-ep17093.c
+   130	11:55	a.out
+   131	11:56	vi kadai2-1-ep17093.c
+   132	11:57	gcc kadai2-1-ep17093.c
+   133	11:57	a.out
+   134	11:57	vi kadai2-1-ep17093.c
+   135	11:58	a.out
+   136	11:58	gcc kadai2-1-ep17093.c
+   137	11:58	a.out
+   138	11:58	vi kadai2-1-ep17093.c
+   139	11:59	gcc kadai2-1-ep17093.c
+   140	11:59	a.out
+   141	11:59	vi kadai2-1-ep17093.c
+   142	12:01	gcc kadai2-1-ep17093.c
+   143	12:01	a.out
+   144	12:01	a.out
+   145	12:02	vi kadai2-1-ep17093.c
+   146	12:04	history > his-$USER
