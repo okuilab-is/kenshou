@@ -9,7 +9,7 @@ void main(){
     k=i%13;
     while(a[k]!=-1) k++;
     a[k]=i;
-    printf("%d",a[k]);
+    printf("%d,%d\n",k,a[k]);
   } 
   for(int j=0;j<20;j++) printf("%d\n",a[j]);
 }
